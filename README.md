@@ -1,2 +1,2 @@
 # user-interfaceapp-pragati
-Frontend for user interface using Flutter
+This is a own mini project completed by myself and other team members. This project is about a user interface app regarding Pragti college(in which I am pursuing). The attached zip file contains all the code required for the front-end. If interested any one can clone it and try to work on the database part(backend work) which we haven't worked on it(due to lack of team member who have technical knowledge on backend).
